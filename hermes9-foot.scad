@@ -1,5 +1,10 @@
 include <BOSL2/std.scad>
-include <local/defaults.scad>
+//include <local/defaults.scad>
+
+function mm(x = 1) = x;
+function half(x = 0) = x / 2;
+function twice(x = 0) = x * 2;
+function through(x = 0) = x + 0.005;
 
 $fn = $preview ? 36 : 192;
 

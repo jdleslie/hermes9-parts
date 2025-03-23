@@ -1,6 +1,6 @@
 # hermes9-parts
 
-Various reproduction parts for a Hermes 9 typewriter, for 3D printing.
+Various reproduction parts for a [Hermes 9](https://typewriterdatabase.com/Hermes.9.82.bmys) typewriter, for 3D printing.
 
 ## Foot
 

@@ -1,6 +1,6 @@
 # hermes9-parts
 
-Various reproduction parts for a [Hermes 9](https://typewriterdatabase.com/Hermes.9.82.bmys) typewriter, for 3D printing. OpenSCAD source files depend on the BelfrySCAD [BOSL2](https://github.com/BelfrySCAD/BOSL2) library installed in the local [libraries folder](https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Libraries).
+Various reproduction parts for a [Hermes 9](https://typewriterdatabase.com/Hermes.9.82.bmys) typewriter, for 3D printing. OpenSCAD source files depend on the BelfrySCAD [BOSL2](https://github.com/BelfrySCAD/BOSL2) library installed in the local OpenSCAD [libraries folder](https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Libraries).
 
 ## Foot
 
@@ -9,7 +9,7 @@ Replacement foot, printed in TPU with 15% infill. Gap between feet has been clea
 * Material: [Inland Grey TPU](https://inlandelectronics.com/product/inland-1-75mm-grey-tpu-3d-printer-filament/)
 * Nozzle: 240 C
 * PEI plate: 70 C
-* Max volumetric speed: 3.2 
+* Max volumetric speed: 3.2 mm<sup>3</sup>/s
 * Printer: Bambu Labs P1S
 
 ## Spacebar Bumper
@@ -19,7 +19,7 @@ Assortment of loose-fitting bumpers, printed in TPU (95A) with 15% infill. Print
 * Material: [Inland Grey TPU](https://inlandelectronics.com/product/inland-1-75mm-grey-tpu-3d-printer-filament/)
 * Nozzle: 240 C
 * PEI plate: 70 C
-* Max volumetric speed: 3.2
+* Max volumetric speed: 3.2 mm<sup>3</sup>/s
 * Printer: Bambu Labs P1S
 
 

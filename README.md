@@ -1,6 +1,6 @@
 # hermes9-parts
 
-Various reproduction parts for a [Hermes 9](https://typewriterdatabase.com/Hermes.9.82.bmys) typewriter, for 3D printing. OpenSCAD source files depend on the BelfrySCAD [BOSL2](https://github.com/BelfrySCAD/BOSL2) library installed in you [libraries folder](https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Libraries).
+Various reproduction parts for a [Hermes 9](https://typewriterdatabase.com/Hermes.9.82.bmys) typewriter, for 3D printing. OpenSCAD source files depend on the BelfrySCAD [BOSL2](https://github.com/BelfrySCAD/BOSL2) library installed in the local [libraries folder](https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Libraries).
 
 ## Foot
 

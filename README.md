@@ -14,7 +14,7 @@ Replacement foot, printed in TPU with 15% infill. Gap between feet has been clea
 
 ## Spacebar Bumper
 
-Assortment of loose-fitting bumpers, printed in TPU (95A) with 15% infill. Print total of four (two per side) in preferred size. I am using 4 mm.
+Assortment of loose-fitting bumpers, printed in TPU with 15% infill. Print total of four (two per side) in preferred size. I use 4 mm.
 
 * Material: [Inland Grey TPU](https://inlandelectronics.com/product/inland-1-75mm-grey-tpu-3d-printer-filament/)
 * Nozzle: 240 C
